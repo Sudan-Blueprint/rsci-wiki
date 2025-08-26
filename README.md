@@ -37,7 +37,7 @@ The site is built using **Quarto** and hosted on **GitHub Pages**.
 2.  Clone this repo:
 
     ``` bash
-    git clone [https://github.com/<your-username>/rsic-wiki.git](https://github.com/Sudan-Blueprint/rsci-wiki.git)
+    git clone https://github.com/Sudan-Blueprint/rsci-wiki.git
     cd rsic-wiki
     ```
 
