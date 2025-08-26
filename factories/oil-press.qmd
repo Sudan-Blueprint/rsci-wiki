@@ -1,0 +1,26 @@
+---
+title: "Oil Press Factory — معصرة زيوت"
+status: Prototype
+owner: "Operations Team"
+tags: [factory, agri-processing, oils]
+---
+
+## Purpose & Products
+Local value-add from regional crops (sesame, groundnut).
+
+## Process Flow
+```mermaid
+flowchart LR
+  A[Seeds] --> B[Cleaning]
+  B --> C[Roasting]
+  C --> D[Pressing]
+  D --> E[Filtration]
+  E --> F[Storage]
+```
+
+## Utilities
+- Power: 150 kW peak
+- Water: 2 m³/day
+
+## Status
+Prototype; commissioning plan TBD.

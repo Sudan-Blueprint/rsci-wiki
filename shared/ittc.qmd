@@ -1,0 +1,18 @@
+---
+title: "Industrial Transformation Technical Center (ITTC) — المركز التقني للتحول الصناعي"
+---
+
+**Purpose:** Advanced Manufacturing training to uplift rural producers; progressive, student-centered learning with real-factory simulations.
+
+### Core Courses (Mandatory)
+- National ethos & work ethics; leadership & role models; social psychology; industrial management; industrial security; basic sciences; materials science; technology & AI; tolerances; industrial safety; TQM.
+
+### Departments (Core)
+- Design & process analysis; institutional innovation; reverse engineering & simulation; materials & colors; testing & quality; digital printing; CNC & cutting; welding & assembly; glass & plastics; electronics & control; coating & packaging; refractories & alloys; robotics & AI.
+
+### Curricula (Core)
+- Construction; agriculture; fishing & livestock; mining; manufacturing; transport & storage; trade.
+
+<div class="rtl">
+الفلسفة التعليمية: تعلم وليس تعليم، التعلم المتمحور حول التلميذ، المنهج التطويري، محاكاة الصناعة والعمل الحقيقي، جرّاجات التعلم المجتمعية.
+</div>

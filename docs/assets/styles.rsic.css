@@ -1,0 +1,20 @@
+:root {
+  --rsic-primary: #0a7c74; /* teal from logo (approx) */
+  --rsic-accent:  #b8893a; /* gold from logo (approx) */
+}
+.navbar-brand img { height: 34px; margin-right: .5rem; }
+header#title-block-header .title { font-weight: 700; }
+.sidebar nav[role="doc-toc"] { font-size: .95rem; }
+h1, h2, h3 { scroll-margin-top: 90px; }
+.callout-tip { border-left-color: var(--rsic-primary); }
+a { text-decoration-thickness: .08em; }
+.badge-rsic { background: var(--rsic-primary); color: #fff; padding: .2rem .45rem; border-radius: .35rem; }
+.rtl { direction: rtl; text-align: right; }
+.hero {
+  display: flex; gap: 1rem; align-items: center; padding: 1rem;
+  border: 1px solid rgba(0,0,0,.05); border-radius: .75rem;
+  background: #f8f9fa;
+}
+.hero img { height: 80px; }
+.hero .text { font-size: 1.05rem; }
+footer.footer { border-top: 1px solid rgba(0,0,0,.08); }

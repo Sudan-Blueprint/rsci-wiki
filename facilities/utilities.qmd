@@ -1,0 +1,6 @@
+---
+title: "Utilities & Site Services"
+---
+
+- Power (hybrid microgrid), water & treatment, roads, storage, waste management, and IT.
+- Provide **SLAs** for each service to factories and community facilities.

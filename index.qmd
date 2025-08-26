@@ -1,0 +1,16 @@
+---
+title: "Rural Social Industrial Complex (RSIC) Wiki"
+page-layout: full
+---
+
+<div class="hero">
+  <img src="assets/images/rsic-logo.png" alt="RSIC logo"/>
+  <div class="text">
+    <strong>RSIC</strong> is a replicable model for community-driven rural industrialization in Sudan.
+    This wiki organizes the vision, roadmap, facilities, factories, shared resources, and replication steps.
+  </div>
+</div>
+
+- Start with the **[Introduction](intro/index.qmd)** and **[Replication Model](replication/index.qmd)**.
+- Track progress in the **[Roadmap](roadmap/index.qmd)**.
+- Explore proposed **[Factories](factories/index.qmd)** and **[Shared Resources](shared/index.qmd)**.

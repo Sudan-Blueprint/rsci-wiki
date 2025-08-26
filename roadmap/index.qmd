@@ -1,0 +1,16 @@
+---
+title: "Roadmap — خارطة الطريق"
+---
+
+**Phases:** حلم → رؤية → تجهيز → تنفيذ → تطوير → توسع
+
+| Phase | Focus | Notes |
+|---|---|---|
+| تجهيز | Governance, design, team | Project & operations teams |
+| تنفيذ | Build, operate, maintain | Commission key assets |
+| تطوير وتوسع | Improve & scale | Replicate to new cities |
+
+#### 400–40–4 (from presentation)
+- 400: Long-horizon, national industrial learning agenda
+- 40: Priority industrial projects/clusters
+- 4: Initial anchor RSIC sites

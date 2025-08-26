@@ -1,0 +1,33 @@
+---
+title: "Checklists — قوائم التحقق"
+---
+
+## Discovery
+- [ ] Map resources & seasonality
+- [ ] Engage stakeholders; define roles & commitments
+- [ ] Select priority industries (self-sufficiency vs export)
+
+## Design
+- [ ] Masterplan & utilities
+- [ ] Factory shortlist with mass-balance
+- [ ] Shared resources capacity & SLAs
+
+## Financing
+- [ ] CAPEX/OPEX model
+- [ ] Funding sources (public, concessional, PPP)
+- [ ] Risk allocation
+
+## Build
+- [ ] Procurement plan & RFPs
+- [ ] Construction schedule & QA plan
+- [ ] HSE plan & permits
+
+## Commission
+- [ ] SOPs validated
+- [ ] Staff trained & certified
+- [ ] Performance tests passed
+
+## Operate
+- [ ] KPI dashboard live
+- [ ] Maintenance program active
+- [ ] Community feedback loop

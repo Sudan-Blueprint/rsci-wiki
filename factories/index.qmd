@@ -1,0 +1,9 @@
+---
+title: "Factories — المصانع"
+listing:
+  contents: .
+  sort: "title"
+  type: table
+  filter-ui: true
+  fields: [title, status, tags]
+---

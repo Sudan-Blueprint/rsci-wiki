@@ -1,0 +1,10 @@
+---
+title: "Facilities Overview"
+---
+
+This section captures the **site**, **utilities**, and common infrastructure.
+
+- Proposed pilot area: **Artiqasha East (Al-Burgaig), Dongola — Northern State** (per presentation).
+
+- Distances and connectivity (as per slides): city ↔ technical center ~600m; center ↔ complex ~3.7km; complex ↔ paved road ~3.5km.
+

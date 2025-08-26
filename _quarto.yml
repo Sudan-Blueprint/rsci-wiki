@@ -1,0 +1,77 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Rural Social Industrial Complex (RSIC) Wiki"
+  site-url: https://sudan-blueprint.github.io/rsci-wiki/
+  repo-url: https://github.com/Sudan-Blueprint/rsci-wiki.git
+  favicon: assets/images/rsic-logo.png
+  navbar:
+    logo: assets/images/rsic-logo.png
+    left:
+      - text: Introduction
+        href: intro/index.qmd
+      - text: Roadmap
+        href: roadmap/index.qmd
+      - text: Facilities
+        href: facilities/index.qmd
+      - text: Factories
+        href: factories/index.qmd
+      - text: Shared Resources
+        href: shared/index.qmd
+      - text: Replication Model
+        href: replication/index.qmd
+    right:
+      - icon: github
+        href: https://github.com/Sudan-Blueprint/rsci-wiki.git
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - section: "Introduction"
+        contents:
+          - intro/index.qmd
+          - intro/why-industry.qmd
+          - intro/philosophy.qmd
+          - intro/strategy.qmd
+          - intro/tactics.qmd
+      - section: "Roadmap"
+        contents:
+          - roadmap/index.qmd
+          - roadmap/next-steps.qmd
+      - section: "Facilities"
+        contents:
+          - facilities/index.qmd
+          - facilities/location.qmd
+          - facilities/utilities.qmd
+      - section: "Factories"
+        contents:
+          - factories/index.qmd
+          - factories/catalogue.qmd
+          - factories/oil-press.qmd
+      - section: "Shared Resources"
+        contents:
+          - shared/index.qmd
+          - shared/ittc.qmd
+          - shared/research-center.qmd
+      - section: "Replication Model"
+        contents:
+          - replication/index.qmd
+          - replication/checklists.qmd
+          - replication/policy.qmd
+
+format:
+  html:
+    theme: flatly
+    toc: true
+    toc-depth: 3
+    page-navigation: true
+    number-sections: false
+    smooth-scroll: true
+    css: assets/styles.rsic.css
+
+execute:
+  freeze: auto
+
+lang: en
